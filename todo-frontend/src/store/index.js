@@ -5,6 +5,7 @@ Vue.use(Vuex);
 // Vuex je centralizovano skladiste state-a nase aplikacije, kao npr. Redux
 // U ovom primeru imamo samo baseUrl, koji setujemo kako bismo iz cele aplikacije
 // znali na kojoj adresi nam je backend server
+// dasdasdasas
 export default new Vuex.Store({
   state: {
     baseUrl: 'http://localhost:8080/todofullstack/todo-backend'
